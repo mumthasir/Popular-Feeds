@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.0)
+  - NYAlertViewController (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - NYAlertViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - NYAlertViewController
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  NYAlertViewController: b93f82e2c1fc6d5e9485512ddbe7b481f463a074
+
+PODFILE CHECKSUM: 3c806c3956b03c81e3a53a25844ef6e813c105ba
+
+COCOAPODS: 1.5.3
